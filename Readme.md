@@ -1,11 +1,23 @@
 # Whos that pokemon game
 
 This is a simple game where you have to guess the name of the pokemon based on the image.
+if the name is correct it will reveal the pokemon and you will move on to the next random pokemon.
 Created with Vite and React
+
+## Screenshots
+
+![screenshot](./screenshots/Screenshot.png)
 
 ## How to play
 
 visit the [game](https://mrdiamonddirt.github.io/whosthatpokemon/) and the game will start.
+
+## possible improvements
+
+- [ ] Add a timer
+- [ ] Add a score
+- [ ] Add Settings
+- [ ] Add a leaderboard
 
 ## How to contribute
 
